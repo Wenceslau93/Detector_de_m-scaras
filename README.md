@@ -6,6 +6,8 @@ Iremos utilizar a biblioteca OpenCV de visão computacional para realizar o reco
 
 Também iremos utilizar as bibliotecas NumPy, matplotlib, pandas e scikit-learn, para Machine Learning.
 
+Observação: Dentro da pasta imagem, descompactar o arquivo Descompactar.rar.
+
 
 <br/>
 <br/>
