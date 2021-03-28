@@ -10,10 +10,10 @@ Também iremos utilizar as bibliotecas NumPy, matplotlib, pandas e scikit-learn,
 <br/>
 <br/>
 
-<p align="center"><a href="https://wenceslau93.github.io/Health-Analytics/">Acesse o projeto Clicando Aqui!</a></p>
+<p align="center"><a href="https://wenceslau93.github.io/Detector_de_mascaras/">Acesse o projeto Clicando Aqui!</a></p>
 
 <br/>
 
 <p align="center">
-<img src="https://github.com/Wenceslau93/Health-Analytics/blob/main/imagem_projeto.png" alt="some text">
+<img src="https://github.com/Wenceslau93/Detector_de_mascaras/blob/main/detc.png" alt="some text">
 </center></p>
